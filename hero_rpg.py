@@ -75,5 +75,6 @@ class Goblin(Character):
 # def main():
 
     
-main()
+main ()
+
     
